@@ -1,2 +1,2 @@
 # hello-world
-hello wolrd repo
+Hi there, Ali Alperen Colak here!
